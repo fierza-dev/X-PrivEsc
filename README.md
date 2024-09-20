@@ -37,3 +37,10 @@ Adalah sebuah alat berbasis Python yang dirancang untuk memindai potensi privile
 10. **Pengecekan Insecurity pada PATH (check_path_insecurity)**:
     - Mengecek direktori yang ada dalam **PATH** dan memastikan tidak ada direktori yang memiliki izin insecure (writable), yang bisa menjadi celah keamanan.
 
+11. **System Logging**
+    - Diperuntukan sebagai pencatatan dari hasil scanning
+
+#Installation
+1. <a href="https://github.com/fierza-dev/X-PrivEsc/blob/main/X-PrivEsc.zip" style="display: inline-block; background-color: #007bff; color: white; padding: 10px 15px; text-align: center; text-decoration: none; border-radius: 5px; font-weight: bold;">Download Here</a>
+
+
