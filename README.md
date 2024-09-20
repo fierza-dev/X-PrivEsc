@@ -41,6 +41,13 @@ Adalah sebuah alat berbasis Python yang dirancang untuk memindai potensi privile
     - Diperuntukan sebagai pencatatan dari hasil scanning
 
 #Installation
-1. <a href="https://github.com/fierza-dev/X-PrivEsc/blob/main/X-PrivEsc.zip" style="display: inline-block; background-color: #007bff; color: white; padding: 10px 15px; text-align: center; text-decoration: none; border-radius: 5px; font-weight: bold;">Download Here</a>
+1. [![Download ZIP](https://github.com/fierza-dev/X-PrivEsc/blob/main/X-PrivEsc.zip)](X-PrivEsc.zip)
+2. cd X-PrivEsc
+3. sudo chmod +x *
+4. pip install -r requirements.txt
+5. Done
+
+#usage
+python3 main.pyc
 
 
